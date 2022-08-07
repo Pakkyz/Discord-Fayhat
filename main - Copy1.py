@@ -1,6 +1,4 @@
-# 1004318593334386709 client id
-# MTAwNDMxODU5MzMzNDM4NjcwOQ.GP0ezw.GSsvdcFejw2C6qdl96ugu-Zb2V5pDmeXSe-Wg4 Token
-# 256064 PERMISSIONS INTEGER
+
 
 from http import client
 
@@ -175,4 +173,4 @@ async def leave(ctx):
 #---------------------------------------------------------------
 
 
-client.run('MTAwNDMxODU5MzMzNDM4NjcwOQ.GP0ezw.GSsvdcFejw2C6qdl96ugu-Zb2V5pDmeXSe-Wg4')
+client.run('')
