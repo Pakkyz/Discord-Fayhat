@@ -453,4 +453,4 @@ async def on_reaction_add(reaction, user):
 
 
 
-client.run('MTAwNDg3ODgxNTUyMjIwMTcwMQ.GkP4jc.J8zp1GPFS2ck4rXPuUSkPjtCnUialigDFpJF4A')
+client.run('')
